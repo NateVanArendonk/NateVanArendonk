@@ -15,7 +15,7 @@ Checkout some of these projects I've spun up:
 
 ## Get in Touch
 
-- LinkedIn: [NateVanArendonk Linkedin](https://www.linkedin.com/in/nathan-vanarendonk-18329889/)
+- LinkedIn: [Nate VanArendonk](https://www.linkedin.com/in/nathan-vanarendonk-18329889/)
 
 
 
