@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+I'm Nate VanArendonk, a software engineer based in Bellingham, Washington.
+
+## About Me
+
+I'm a full-stack engineer working for Netsmart, a health-tech company, on the product and analytics platform. In my free time, you can find me mtn biking, skiing, or wing foiling.
+
+## Projects
+
+Checkout some of these projects I've spun up:
+
+- [The Windline](https://thewindline.com/) - Wind forecasting app for the Salish Sea focused on wind sports and optimizing time on the water.
+- [Sail Selector](https://www.sailselector.com/) - Web app to help wing foilers find the optimal range for winging given their weight and a gear size.
+
+## Get in Touch
+
+- LinkedIn: [NateVanArendonk Linkedin]([Link to LinkedIn](https://www.linkedin.com/in/nathan-vanarendonk-18329889/))
+
+
+
 <!--
 **NateVanArendonk/NateVanArendonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
