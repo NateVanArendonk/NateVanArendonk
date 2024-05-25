@@ -4,7 +4,7 @@ I'm Nate VanArendonk, a software engineer based in Bellingham, Washington.
 
 ## About Me
 
-I'm a full-stack engineer working for Netsmart, a health-tech company, on the product and analytics platform. In my free time, you can find me mtn biking, skiing, or wing foiling.
+I'm a full-stack engineer working on the product and analytics platform for Netsmart, a health-tech company. In my free time, you can find me mtn biking, skiing, or wing foiling.
 
 ## Projects
 
