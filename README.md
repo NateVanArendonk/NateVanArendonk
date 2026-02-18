@@ -11,7 +11,6 @@ I’m a backend-leaning full-stack engineer working for Predoc. When I'm not in 
 Checkout some of these projects I've spun up:
 
 - [The Windline](https://thewindline.com/) - Wind forecasting app for the Salish Sea focused on wind sports and maximizing time on the water.
-- [Sail Selector](https://www.sailselector.com/) - Web app to help wing foilers find the optimal range for winging given their weight and gear size.
 
 ## Get in Touch
 
