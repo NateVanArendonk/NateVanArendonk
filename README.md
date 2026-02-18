@@ -4,7 +4,7 @@ I'm Nate VanArendonk, a software engineer based in Bellingham, Washington.
 
 ## About Me
 
-I’m a backend-leaning full-stack engineer working for meMR Health. When I'm not in front of my computer, you'll find me either mountain biking, skiing, or folding laundry.
+I’m a backend-leaning full-stack engineer working for Predoc. When I'm not in front of my computer, you'll find me either mountain biking, skiing, or folding laundry.
 
 ## Projects
 
